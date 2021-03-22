@@ -1,0 +1,12 @@
+# eclinical_ctms_pd_form
+## id
+## version
+## status
+## enable
+## order_number
+## locale
+## creator_at
+## create_uid
+## modify_uid
+## is_delete
+## comment

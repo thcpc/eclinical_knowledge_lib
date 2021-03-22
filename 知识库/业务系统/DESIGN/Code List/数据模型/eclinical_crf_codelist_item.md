@@ -1,0 +1,2 @@
+- 存储 code list item 的数据
+- 外键约束 [[eclinical_crf_codelist | eclinical_crf_codelist]].id
