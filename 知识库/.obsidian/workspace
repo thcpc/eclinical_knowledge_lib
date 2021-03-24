@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "服务器信息/数据库服务器.md",
-            "mode": "source"
+            "file": "服务器信息/环境的账号.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "服务器信息/数据库服务器.md",
+                "file": "服务器信息/环境的账号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "服务器信息/Untitled.md",
+    "服务器信息/Jenkins.md",
     "服务器信息/数据库服务器.md",
-    "业务系统/CTMS/PD/业务详情/PD模板/创建表单模板.md",
-    "ScreenShots/code_list_name.png",
-    "ScreenShots/pd_flow.png",
-    "业务系统/CTMS/PD/业务详情/PD录入数据/表单状态变化.md",
-    "业务系统/DESIGN/Form表单/创建方式/从Unique Form 引用.md",
-    "业务系统/DESIGN/Form表单/创建方式/手动创建.md",
-    "业务系统/DESIGN/Form表单/创建方式/从Unique Form 创建.md",
-    "业务系统/DESIGN/Form表单/创建方式/从CRF Form 拷贝.md",
-    "英语/常用商务英语.md"
+    "服务器信息/测试服务器.md",
+    "服务器信息/服务器信息.md",
+    "Mysql/常备操作.md",
+    "业务系统/DESIGN/Code List/数据模型/eclinical_crf_codelist.md",
+    "业务系统/DESIGN/Code List/数据模型/eclinical_code.md",
+    "业务系统/CTMS/Monitoring/Untitled.md",
+    "业务系统/CTMS/Monitoring/Template.md"
   ]
 }
