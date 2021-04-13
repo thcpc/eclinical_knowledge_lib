@@ -3,11 +3,8 @@
   
 
 name
-
 url
-
 username
-
 password
 
 ec.eclinical-dev.edetekapps.com
