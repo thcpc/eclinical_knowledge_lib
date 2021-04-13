@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b8009ec678415ab",
+        "id": "b4cd3d9393d6e402",
         "type": "leaf",
+        "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "服务器信息/谭元玲_美国dev_账号密码.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,11 +69,10 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "服务器信息/谭元玲_美国dev_账号密码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -82,17 +85,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b8009ec678415ab",
   "lastOpenFiles": [
+    "服务器信息/谭元玲_美国dev_账号密码.md",
     "服务器信息/环境的账号.md",
-    "业务系统/CTMS/Vendor/1 Vendor Funciton Structure.md",
-    "业务系统/CTMS/TMF/2 TMF Data Structure.md",
-    "业务系统/CTMS/TMF/1 TMF Function Structure.md",
-    "业务系统/CTMS/PD/业务详情/PD录入数据/Subject Level.md",
-    "业务系统/CTMS/PD/业务详情/PD录入数据/Study Level.md",
-    "业务系统/CTMS/PD/业务详情/PD录入数据/Site Level.md",
-    "业务系统/CTMS/PD/业务详情/PD录入数据/表单分类.md",
-    "业务系统/CTMS/PD/业务详情/PD录入数据/Untitled.md",
-    "服务器信息/服务器信息.md"
+    "服务器信息/Untitled.md",
+    "服务器信息/测试服务器.md",
+    "服务器信息/服务器信息.md",
+    "服务器信息/数据库服务器.md",
+    "服务器信息/Jenkins.md",
+    "Mysql/常备操作.md",
+    "业务系统/DESIGN/Code List/数据模型/eclinical_crf_codelist.md",
+    "业务系统/DESIGN/Code List/数据模型/eclinical_code.md"
   ]
 }
