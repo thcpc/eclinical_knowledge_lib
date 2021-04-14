@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "业务系统/CTMS/PD/业务详情/PD录入数据/Subject Level.md",
-            "mode": "source"
+            "file": "业务系统/DESIGN/Code List编码列表/数据模型/eclinical_crf_codelist_item.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "业务系统/CTMS/PD/业务详情/PD录入数据/Subject Level.md",
+                "file": "业务系统/DESIGN/Code List编码列表/数据模型/eclinical_crf_codelist_item.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "业务系统/CTMS/PD/业务详情/PD录入数据/Subject Level.md",
-    "业务系统/CTMS/PD/业务详情/PD录入数据/Study Level.md",
-    "业务系统/CTMS/PD/业务详情/PD录入数据/Site Level.md",
-    "业务系统/CTMS/PD/业务详情/PD录入数据/表单分类.md",
-    "业务系统/CTMS/PD/业务详情/PD录入数据/Untitled.md",
-    "服务器信息/服务器信息.md",
-    "业务系统/CTMS/PD/业务详情/PD录入数据/表单操作权限.md",
-    "业务系统/DESIGN/Code List编码列表/创建方式.md",
     "业务系统/DESIGN/Code List编码列表/数据模型/eclinical_crf_codelist_item.md",
-    "业务系统/DESIGN/Code List编码列表/数据模型/eclinical_crf_codelist.md"
+    "业务系统/DESIGN/Code List编码列表/数据模型/eclinical_crf_codelist.md",
+    "业务系统/DESIGN/Code List编码列表/数据模型/eclinical_code.md",
+    "Mysql/常备操作.md",
+    "英语/常用商务英语.md",
+    "服务器信息/环境的账号.md",
+    "服务器信息/测试服务器.md",
+    "服务器信息/数据库服务器.md",
+    "服务器信息/服务器信息.md",
+    "业务系统/CTMS/Monitoring/Monitoring Plan/Untitled.md"
   ]
 }
