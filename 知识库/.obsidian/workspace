@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b4cd3d9393d6e402",
+        "id": "df220a059b8460fd",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "服务器信息/谭元玲_美国dev_账号密码.md",
-            "mode": "source"
+            "file": "业务系统/IWRS/获取方案信息.md",
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402
+    "width": 220
   },
   "right": {
     "id": "5f242fb1edbd43fe",
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "服务器信息/谭元玲_美国dev_账号密码.md",
+                "file": "业务系统/IWRS/获取方案信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "df220a059b8460fd",
   "lastOpenFiles": [
-    "服务器信息/谭元玲_美国dev_账号密码.md",
+    "业务系统/IWRS/Untitled.md",
+    "Linux/Untitled.md",
+    "Untitled.md",
     "服务器信息/环境的账号.md",
-    "服务器信息/Untitled.md",
-    "服务器信息/测试服务器.md",
-    "服务器信息/服务器信息.md",
-    "服务器信息/数据库服务器.md",
-    "服务器信息/Jenkins.md",
+    "业务系统/Portal/移库.md",
     "Mysql/常备操作.md",
-    "业务系统/DESIGN/Code List/数据模型/eclinical_crf_codelist.md",
-    "业务系统/DESIGN/Code List/数据模型/eclinical_code.md"
+    "服务器信息/谭元玲_美国dev_账号密码.md",
+    "业务系统/Portal/Untitled.md",
+    "服务器信息/服务器信息.md",
+    "服务器信息/测试服务器.md"
   ]
 }
