@@ -7,6 +7,10 @@
 | eclinical_ctms_milestone | TMF Template中初始化的System数据 | TMF Template |
 | eclinical_ctms_study_milestone_category | TMF Template中初始化的数据 | TMF Template |
 | eclinical_ctms_study_artifact_category | TMF Template中初始化的数据 | TMF Template |
+| eclinical_ctms_reference_data | reference data的二级菜单 | Library |
+| eclinical_ctms_reference_item | reference data的item | Library |
+| eclinical_ctms_reference_item_rule | File Type的规则 | File Type |
+| eclinical_ctms_reference_quote | reference data被引用的情况 | Library |
 | eclinical_ctms_study_milestone | Milestone Tracking中实例化的数据 | Milestone Tracking |
 | eclinical_ctms_study_artifact | Artifact中实例化的数据 | Artifact |
 | eclinical_ctms_artifact_expected_file | Study的Artifact的Expected File数据 | Artifact |
