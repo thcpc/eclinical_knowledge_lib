@@ -1,0 +1,2 @@
+表单都需设置相同的Category
+eclinical_crf_form中的category字段

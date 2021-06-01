@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "业务系统/IWRS/获取方案信息.md",
+            "file": "业务系统/常见的数据处理/如何修改显示的系统菜单.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220
+    "width": 455
   },
   "right": {
     "id": "5f242fb1edbd43fe",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "业务系统/IWRS/获取方案信息.md",
+                "file": "业务系统/常见的数据处理/如何修改显示的系统菜单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "df220a059b8460fd",
   "lastOpenFiles": [
-    "业务系统/IWRS/Untitled.md",
-    "Linux/Untitled.md",
-    "Untitled.md",
-    "服务器信息/环境的账号.md",
-    "业务系统/Portal/移库.md",
+    "业务系统/常见的数据处理/Untitled.md",
     "Mysql/常备操作.md",
+    "Linux/日志查看.md",
+    "服务器信息/环境的账号.md",
+    "服务器信息/数据库服务器.md",
+    "服务器信息/测试服务器.md",
     "服务器信息/谭元玲_美国dev_账号密码.md",
-    "业务系统/Portal/Untitled.md",
     "服务器信息/服务器信息.md",
-    "服务器信息/测试服务器.md"
+    "服务器信息/Jenkins.md",
+    "业务系统/常见的数据处理/试验在Design已发布，但是需要修改Subject Phase，并重新发布.md"
   ]
 }
