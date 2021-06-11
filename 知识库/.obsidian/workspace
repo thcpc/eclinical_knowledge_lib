@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "业务系统/常见的数据处理/如何查询应该是从执行什么版本的增量脚本.md",
+            "file": "服务器信息/环境的账号.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "业务系统/常见的数据处理/如何查询应该是从执行什么版本的增量脚本.md",
+                "file": "服务器信息/环境的账号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "df220a059b8460fd",
   "lastOpenFiles": [
+    "服务器信息/环境的账号.md",
     "业务系统/常见的数据处理/如何查询应该是从执行什么版本的增量脚本.md",
     "Mysql/常备操作.md",
-    "服务器信息/环境的账号.md",
     "英语/常用商务英语.md",
     "服务器信息/测试服务器.md",
     "业务系统/DESIGN/Migration/数据修改的方法.md",
