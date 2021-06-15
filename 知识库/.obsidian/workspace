@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "业务系统/IWRS/IWRS4.0测试指南.md",
-            "mode": "source"
+            "file": "业务系统/DESIGN/Form表单/表单类型/业务分类/SimpleForm.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "业务系统/IWRS/IWRS4.0测试指南.md",
+                "file": "业务系统/DESIGN/Form表单/表单类型/业务分类/SimpleForm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b4cd3d9393d6e402",
   "lastOpenFiles": [
-    "业务系统/IWRS/IWRS4.0测试指南.md",
-    "业务系统/IWRS/获取方案信息.md",
-    "业务系统/IWRS/Untitled.md",
-    "业务系统/Portal/升级.md",
-    "业务系统/Portal/权限控制/PD权限.md",
-    "业务系统/CTMS/Monitoring/Monitoring Plan/Plan List.md",
-    "服务器信息/环境的账号.md",
-    "服务器信息/测试服务器.md",
-    "服务器信息/数据库服务器.md",
-    "SOP/测试团队工作流程.md"
+    "业务系统/DESIGN/Form表单/表单类型/业务分类/SimpleForm.md",
+    "业务系统/DESIGN/Form表单/表单类型/业务分类/GridForm.md",
+    "业务系统/DESIGN/Form表单/表单类型/业务分类/LogForm.md",
+    "业务系统/DESIGN/Form表单/控件类型/Radio.md",
+    "业务系统/DESIGN/Form表单/控件类型/CheckBox.md",
+    "业务系统/DESIGN/Form表单/创建方式/手动创建.md",
+    "业务系统/DESIGN/Form表单/创建方式/从Unique Form 引用.md",
+    "业务系统/DESIGN/Form表单/创建方式/从Unique Form 创建.md",
+    "业务系统/DESIGN/Form表单/创建方式/从CRF Form 拷贝.md",
+    "业务系统/DESIGN/Code List编码列表/创建方式.md"
   ]
 }
