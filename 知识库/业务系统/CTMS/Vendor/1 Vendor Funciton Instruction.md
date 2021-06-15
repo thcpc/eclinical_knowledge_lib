@@ -5,7 +5,7 @@ Library是一个针对申办方的公用模板模块，其中的数据可以供�
 ##### 1.1 Reference Data-Region
 Region中是地区信息，用户可以自定义。
 ##### 1.2 Reference Data-Country/Region
-Country中是国家信息，用户可以自定义。
+Country/Region中是国家/地区信息，用户可以自定义。
 ##### 1.3 Reference Data-Vendor Service Type
 Vendor Service Type中是供应商服务类型，用户可以自定义。
 ### 2 Entity
@@ -21,7 +21,18 @@ Role Setting中可以自定义角色类型，主要分为Study和Site Level，�
 Participants可以将Staff和Role Setting中的数据进行关联，因此其主要用于存放为外部人员的角色信息和基础数据。
 
 
-
+# Data Flow
+```mermaid
+graph TD
+A(Region) --> B(Staff)
+B --> C(Vendor)
+A(Region) --> C(Vendor)
+D(Country/Region) --> B(Staff)
+D(Country/Region) --> C(Vendor)
+E(Vendor Service Type) --> C(Vendor)
+C(Vendor) --> F(Participants)
+G(Role Setting) --> F(Participants)
+```
 
 
 

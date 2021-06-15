@@ -3,6 +3,7 @@
 | :--- | :--- | :--- |
 | eclinical_ctms_reference_data | reference data的二级菜单 | Library |
 | eclinical_ctms_reference_item | reference data的item | Library |
+| eclinical_ctms_reference_quote | reference data被引用的情况 | Library |
 | eclinical_ctms_entity_staff | Sponsor的Staff数据 | Entity Management |
 | eclinical_ctms_entity_vendor | Sponsor的Vendor List数据 | Entity Management |
 | eclinical_ctms_entity_vendor_contact | Vendor的Contact Staff数据 | Entity Management |
