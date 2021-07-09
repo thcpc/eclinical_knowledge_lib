@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b4cd3d9393d6e402",
+        "id": "99e2832f52bcac0e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "业务系统/IWRS/IWRS4.0测试指南.md",
-            "mode": "source"
+            "file": "服务器信息/环境的账号.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402
+    "width": 343
   },
   "right": {
     "id": "5f242fb1edbd43fe",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "业务系统/IWRS/IWRS4.0测试指南.md",
+                "file": "服务器信息/环境的账号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,26 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4cd3d9393d6e402",
+  "active": "99e2832f52bcac0e",
   "lastOpenFiles": [
-    "业务系统/IWRS/IWRS4.0测试指南.md",
-    "业务系统/IWRS/获取方案信息.md",
-    "业务系统/IWRS/Untitled.md",
-    "业务系统/Portal/升级.md",
-    "业务系统/Portal/权限控制/PD权限.md",
-    "业务系统/CTMS/Monitoring/Monitoring Plan/Plan List.md",
     "服务器信息/环境的账号.md",
     "服务器信息/谭元玲_美国dev_账号密码.md",
     "服务器信息/测试服务器.md",
     "服务器信息/服务器信息.md",
     "服务器信息/Jenkins.md",
     "服务器信息/数据库服务器.md",
-    "自动化/用例定义流程/标准流程.md",
-    "自动化/用例定义流程/定义接口/Untitled.md",
-    "自动化/用例定义流程/定义接口/定义响应的Bo对象.md",
-    "自动化/用例定义流程/定义接口/定义DTO.md"
-    "服务器信息/测试服务器.md",
-    "服务器信息/数据库服务器.md",
-    "SOP/测试团队工作流程.md"
+    "业务系统/常见的数据处理/Untitled.md",
+    "业务系统/常见的数据处理/Form添加category和 sub_category.md",
+    "自动化/运行配置.md",
+    "业务系统/常见的数据处理/试验在Design已发布，但是需要修改Subject Phase，并重新发布.md"
   ]
 }

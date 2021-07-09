@@ -1,0 +1,1 @@
+修改 eclinical_study 中is_startup = 0  studystatus = 1
