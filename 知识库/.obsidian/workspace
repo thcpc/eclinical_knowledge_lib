@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "服务器信息/环境的账号.md",
+            "file": "Mysql/常备操作.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "服务器信息/环境的账号.md",
+                "file": "Mysql/常备操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "99e2832f52bcac0e",
   "lastOpenFiles": [
+    "Mysql/常备操作.md",
+    "业务系统/常见的数据处理/修改CTMS试验状态为准备中.md",
+    "业务系统/常见的数据处理/CTMS试验状态为准备中.md",
+    "业务系统/常见的数据处理/如何修改显示的系统菜单.md",
+    "业务系统/常见的数据处理/如何查询应该是从执行什么版本的增量脚本.md",
+    "业务系统/常见的数据处理/Form添加category和 sub_category.md",
+    "业务系统/常见的数据处理/试验在Design已发布，但是需要修改Subject Phase，并重新发布.md",
     "服务器信息/环境的账号.md",
     "服务器信息/谭元玲_美国dev_账号密码.md",
-    "服务器信息/测试服务器.md",
-    "服务器信息/服务器信息.md",
-    "服务器信息/Jenkins.md",
-    "服务器信息/数据库服务器.md",
-    "业务系统/常见的数据处理/Untitled.md",
-    "业务系统/常见的数据处理/Form添加category和 sub_category.md",
-    "自动化/运行配置.md",
-    "业务系统/常见的数据处理/试验在Design已发布，但是需要修改Subject Phase，并重新发布.md"
+    "服务器信息/测试服务器.md"
   ]
 }
