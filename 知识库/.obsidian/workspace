@@ -6,12 +6,14 @@
       {
         "id": "650e5d19389bb412",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "工具技巧/PostMan快速创建请求.md",
+            "file": "业务系统/EDC/Table Releation.md",
             "mode": "preview"
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具技巧/PostMan快速创建请求.md",
+                "file": "业务系统/EDC/Table Releation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +85,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "650e5d19389bb412",
   "lastOpenFiles": [
-    "工具技巧/Untitled.md",
+    "业务系统/EDC/Table Releation.md",
+    "业务系统/CTMS/PD/业务详情/PD录入数据/表单操作权限.md",
+    "业务系统/CTMS/PD/业务详情/PD录入数据/表单状态变化.md",
     "服务器信息/环境的账号.md",
-    "业务系统/常见的数据处理/修改CTMS试验状态为准备中.md",
     "服务器信息/数据库服务器.md",
-    "服务器信息/Jenkins.md",
-    "服务器信息/服务器信息.md",
     "服务器信息/测试服务器.md",
-    "业务系统/DESIGN/DataSet/Domain/修改Domain.md",
     "服务器信息/谭元玲_美国dev_账号密码.md",
-    "业务系统/DESIGN/Form表单/控件/CheckBox.md"
+    "服务器信息/服务器信息.md",
+    "服务器信息/Jenkins.md",
+    "业务系统/CTMS/Monitoring/2 Monitor Data Instruction.md"
   ]
 }
