@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "服务器信息/环境的账号.md",
+            "file": "业务系统/DESIGN/SQL/检查发布的CRF SQL 的表单数量.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 238
   },
   "right": {
     "id": "5f242fb1edbd43fe",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "服务器信息/环境的账号.md",
+                "file": "业务系统/DESIGN/SQL/检查发布的CRF SQL 的表单数量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "884699b03934277d",
   "lastOpenFiles": [
+    "业务系统/DESIGN/SQL/Untitled.md",
+    "业务系统/DESIGN/SQL/检查表的非空字段.md",
+    "业务系统/DESIGN/Henrui/ALSTemplate/Matrix9.md",
     "服务器信息/环境的账号.md",
-    "Linux/日志查看.md",
-    "业务系统/常见的数据处理/修改CTMS试验状态为准备中.md",
-    "业务系统/常见的数据处理/如何修改显示的系统菜单.md",
-    "业务系统/常见的数据处理/如何查询应该是从执行什么版本的增量脚本.md",
-    "业务系统/常见的数据处理/Form添加category和 sub_category.md",
+    "服务器信息/谭元玲_美国dev_账号密码.md",
     "服务器信息/测试服务器.md",
     "服务器信息/服务器信息.md",
-    "服务器信息/Jenkins.md",
-    "服务器信息/数据库服务器.md"
+    "业务系统/DESIGN/DataSet/Domain/修改Domain.md",
+    "业务系统/DESIGN/Arm用药分组/查询SQL.md",
+    "业务系统/常见的数据处理/如何查询应该是从执行什么版本的增量脚本.md"
   ]
 }
