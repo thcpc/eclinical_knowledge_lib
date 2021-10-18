@@ -1,0 +1,2 @@
+SELECT * FROM eclinical_audit_trail eat WHERE
+(SELECT count(1) FROM eclinical_audit_trail WHERE object_id=eat.object_id AND object_type=eat.object_type AND description=eat.description AND operation_dt=eat.operation_dt) > 1 ORDER BY eat.id;

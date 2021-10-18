@@ -1,0 +1,30 @@
+SELECT s.name,v.visit_name FROM eclinical_subject_visit_status vs
+JOIN eclinical_subject_visit v ON vs.subject_visit_id=v.id
+JOIN eclinical_subject_crfversion c ON v.subject_version_id=c.id AND c.crf_version_id=43
+JOIN eclinical_subject s ON c.subject_id=s.id
+WHERE v.id in (372,427,429)
+
+
+
+SELECT s.name,v.visit_name,f.form_name FROM eclinical_subject_form_status fs
+JOIN eclinical_subject_form f ON fs.subject_form_id=f.id
+JOIN eclinical_subject_visit v ON f.subject_visit_id=v.id
+JOIN eclinical_subject_crfversion c ON v.subject_version_id=c.id AND c.crf_version_id=43
+JOIN eclinical_subject s ON c.subject_id=s.id
+WHERE f.id in (2601,2602,2919,2926,3490,4388,4455)
+
+
+SELECT s.name,v.visit_name FROM eclinical_subject_visit_status vs
+JOIN eclinical_subject_visit v ON vs.subject_visit_id=v.id
+JOIN eclinical_subject_crfversion c ON v.subject_version_id=c.id AND c.crf_version_id=43
+JOIN eclinical_subject s ON c.subject_id=s.id
+WHERE vs.sdv= true;
+
+
+
+SELECT s.name,v.visit_name,f.form_name FROM eclinical_subject_form_status fs
+JOIN eclinical_subject_form f ON fs.subject_form_id=f.id
+JOIN eclinical_subject_visit v ON f.subject_visit_id=v.id
+JOIN eclinical_subject_crfversion c ON v.subject_version_id=c.id AND c.crf_version_id=43
+JOIN eclinical_subject s ON c.subject_id=s.id
+WHERE fs.sdv=true;
