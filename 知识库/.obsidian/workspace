@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "自动化/Router/5.使用示例.md",
+            "file": "业务系统/常见的数据处理/EDC 升级 Redis 被锁.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自动化/Router/5.使用示例.md",
+                "file": "业务系统/常见的数据处理/EDC 升级 Redis 被锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9654fd1441137a45",
   "lastOpenFiles": [
+    "业务系统/常见的数据处理/EDC 升级 Redis 被锁.md",
+    "业务系统/常见的数据处理/Form添加category和 sub_category.md",
+    "业务系统/常见的数据处理/Portal 删除升级信息.md",
+    "业务系统/常见的数据处理/修改CTMS试验状态为准备中.md",
+    "业务系统/常见的数据处理/如何修改显示的系统菜单.md",
+    "业务系统/常见的数据处理/如何查询应该是从执行什么版本的增量脚本.md",
+    "业务系统/常见的数据处理/试验在Design已发布，但是需要修改Subject Phase，并重新发布.md",
     "自动化/Router/5.使用示例.md",
-    "自动化/Router/4.User Annotation.md",
-    "自动化/Router/3.WebBind.md",
-    "自动化/Router/2.接口定义.md",
-    "自动化/Router/1.Router是什么.md",
-    "服务器信息/环境的账号.md",
-    "测试团队工作原则.md",
-    "自动化/安装.md",
-    "自动化/用例定义流程/标准流程.md",
-    "自动化/运行配置.md"
+    "自动化/用例定义流程/定义接口/定义响应的Bo对象.md",
+    "自动化/用例定义流程/定义接口/定义操作接口.md"
   ]
 }
